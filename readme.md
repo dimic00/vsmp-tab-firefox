@@ -9,3 +9,5 @@ Use [the Firefox plugin](https://addons.mozilla.org/fr/firefox/addon/vsmp-tab/) 
 Based on [Bryan Boyer’s idea](https://medium.com/s/story/very-slow-movie-player-499f76c48b62).
 
 [Visit the website](https://vsmp-tab.netlify.app)
+
+[VSMP Tab repo](https://github.com/dimic00/vsmp-tab)
